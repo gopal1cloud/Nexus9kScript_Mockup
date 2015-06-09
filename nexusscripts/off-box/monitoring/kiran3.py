@@ -4,7 +4,7 @@
 :Box Type:Off-Box
 :Title:Kirans off box monitoring script 3
 :Short Description:This script is to monitor Interface counters.
-:Long Description:This script is to monitor Interface counters like
+:Long Description:This script3 is to monitor Interface counters like
 Errors etc.
 :Input:command to check the interface status
      e.g show interface ethernet 1/1
