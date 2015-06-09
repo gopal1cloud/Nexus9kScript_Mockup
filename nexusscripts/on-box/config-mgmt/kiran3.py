@@ -4,7 +4,7 @@
 :Box Type:On-Box
 :Title:Kiran config management on box script 3
 :Short Description:To dynamically configure interface descriptions
-:Long Description:Check the LLDP state and modify the interface description accordingly.
+:Long Description:Check the LLDP state and modify the interface description accordingly3.
 :Input:command to check the LLDP state and based on the command output,
        modify the description of the interface
 :Output:interface description should be updated
