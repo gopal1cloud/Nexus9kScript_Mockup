@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:
 :Box Type:On-Box
-:Title:Arun - VLAN Configuration Management
+:Title:VLAN Configuration Management - Changed Title
 :Short Description:This script is to perform L3 VLAN operations
 :Long Description:This script is to perform configuration operations
     of L3 VLAN interfaces
