@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:
 :Box Type:On-Box
-:Title:VLAN Configuration Management - Reset Title
+:Title:VLAN Configuration Management - Reset Title 2
 :Short Description:This script is to perform L3 VLAN operations
 :Long Description:This script is to perform configuration operations
     of L3 VLAN interfaces
