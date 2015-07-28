@@ -8,7 +8,7 @@
 :Input:command to check the LLDP state and based on the command output,
        modify the description of the interface
 :Output:interface description should be updated
-:Tag: BGP
+:Tag: BGP, configuration, interface
 """
 
 import os
