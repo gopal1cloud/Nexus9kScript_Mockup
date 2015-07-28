@@ -9,6 +9,7 @@ like cpu utilization, memory usage etc
 :Input:command to check the system resources status
               e.g show system resources
 :Output:parse the json output and update the html file
+:Tag: system-level, resources, html
 """
 
 import os,sys
