@@ -7,6 +7,7 @@
 :Long Description:Helps in monitoring any changes in speed at any Interfaces of the switch by setting specific supported speed of the transceiver.
 :Input:No Input
 :Output:No Output
+:Tag:on-box, config-mgmt
 """
 from __future__ import print_function
 import os,sys
