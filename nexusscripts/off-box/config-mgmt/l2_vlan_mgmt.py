@@ -8,6 +8,7 @@
     of L2 VLAN interfaces
 :Input:N9K Address, username, password, L2 VLAN parameters
 :Output:status/result of the L2 VLAN configuration parameters
+:Tag: L2VLAN, ethernet, drops
 """
 
 import argparse
