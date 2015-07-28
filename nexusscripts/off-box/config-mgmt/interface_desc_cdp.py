@@ -8,6 +8,7 @@
 :Input:command to check the CDP state and based on the command output,
        modify the description of the interface
 :Output:interface description should be updated
+:Tag:VLAN, TCL
 """
 
 import smtplib
