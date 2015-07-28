@@ -4,7 +4,7 @@
 :Box Type:On-Box
 :Title:New script added by kiran
 :Short Description:This script is to monitor transceiver speed at all the interfaces of switch.
-:Long Description:Helps in monitoring any changes in speed at any Interfaces of the switch by setting specific supported speed of the transceiver.
+:Long Description:Helps in monitoring any changes in speed at any Interfaces of the switch by setting specific supported speed of the transceiver 123.
 :Input:No Input
 :Output:No Output
 :Tag:on-box, config-mgmt
