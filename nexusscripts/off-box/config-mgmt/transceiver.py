@@ -7,6 +7,7 @@
 :Long Description:Helps in configuring any changes in speed at any Interfaces of the switch by setting specific supported speed of the transceiver.
 :Input:No Input
 :Output:No Output
+:Tags: TCL, APIC, NX-OS
 """
 
 from __future__ import print_function
