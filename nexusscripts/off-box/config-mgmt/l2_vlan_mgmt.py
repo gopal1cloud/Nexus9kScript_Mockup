@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Config-Mgmt
 :Box Type:Off-Box
-:Title:VLAN Configuration Management updated
+:Title:VLAN Configuration Management 
 :Short Description:This script is to perform L2 VLAN operations
 :Long Description:This script is to perform configuration operations
     of L2 VLAN interfaces
